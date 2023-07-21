@@ -14,3 +14,4 @@ lst01 = [1, 2, 3]
 
 s01 = pd.Series(lst01)
 print(s01, type(s01))
+# dddd
